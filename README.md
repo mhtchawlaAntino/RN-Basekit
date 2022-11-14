@@ -3,7 +3,9 @@ Template for React-Native with navigation, state management, axios &amp; other p
 
 # How to install
 
+```sh
 npx react-native init ProjectName --template https://github.com/mhtchawlaAntino/RN-Basekit.git
+```
 
 # Important
 
