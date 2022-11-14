@@ -1,0 +1,8 @@
+{
+  "name": "RN-Basekit",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "https://github.com/MhtChawla/RN-Basekit.git",
+  "author": "Mohit Chawla <chawla.mohi@gmail.com>",
+  "license": "MIT"
+}
