@@ -24,7 +24,7 @@ Now you can edit ```App.js``` & enjoy developing.
 
 
 
-# This repo includes configuration of following packages
+# This repo includes configuration of following
 
 - React Native
 - NativeBase (UI library) v3.4.x
