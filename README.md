@@ -26,7 +26,7 @@ Now you can edit ```App.js``` & enjoy developing.
 
 # This repo includes configuration of following packages
 
-- React Native v0.68
+- React Native
 - NativeBase (UI library) v3.4.x
 - Basic folder structure
 - React native reanimated v2.11.0
