@@ -1,12 +1,3 @@
-# RN-Basekit
-Template for React-Native with navigation, NativeBase, MST state management, React Navigation, axios &amp; other packages pre-installed.
-
-# How to install
-
-```sh
-npx react-native init ProjectName --template https://github.com/mhtchawlaAntino/RN-Basekit.git
-```
-
 # This repo includes configuration of following packages
 
 - React Native v0.68
@@ -189,5 +180,4 @@ for alerts when internet goes down.
 ```
     
     github link: https://github.com/react-native-image-picker/react-native-image-picker
-
 
