@@ -1,3 +1,13 @@
+# Intro
+
+This project is a basic [React Native](https://facebook.github.io/react-native/) template that can be used to kickstart a mobile application. It is basically a complete package of
+- [NativeBase](https://nativebase.io/) for styled components
+- [Mobx-State-Tree](https://mobx-state-tree.js.org/intro/getting-started) for state management
+- [Axios](https://www.npmjs.com/package/axios) for API calls
+- [React Navigation](https://reactnavigation.org/) for navigation
+- [React-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons) for vector icons 
+& much more
+
 # This repo includes configuration of following packages
 
 - React Native v0.68

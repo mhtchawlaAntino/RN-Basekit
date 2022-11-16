@@ -1,5 +1,12 @@
-# RN-Basekit
-Template for React-Native with navigation, NativeBase, MST state management, React Navigation, axios &amp; other packages pre-installed.
+# Intro
+
+This project is a basic [React Native](https://facebook.github.io/react-native/) template that can be used to kickstart a mobile application. It is basically a complete package of
+- [NativeBase](https://nativebase.io/) for styled components
+- [Mobx-State-Tree](https://mobx-state-tree.js.org/intro/getting-started) for state management
+- [Axios](https://www.npmjs.com/package/axios) for API calls
+- [React Navigation](https://reactnavigation.org/) for navigation
+- [React-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons) for vector icons 
+& much more
 
 # How to install
 
