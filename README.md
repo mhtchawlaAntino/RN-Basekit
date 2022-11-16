@@ -31,7 +31,7 @@ Now you can edit ```App.js``` & enjoy developing.
 - Basic folder structure
 - React native reanimated v2.11.0
 - React Navigation (stack, tab & drawer) v6.x
-- Responsive file added in utils
+- Responsive file added in ./src/utils
 - MobxStateTree or MST (state management)
 - React native permissions v3.6.1
 - Axios v1.1.3 (with index.js file setup for post, get etc.)
