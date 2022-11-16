@@ -15,6 +15,16 @@ This project is a basic [React Native](https://facebook.github.io/react-native/)
 npx react-native init ProjectName --template https://github.com/mhtchawlaAntino/RN-Basekit.git
 ```
 
+Go to root of project & install node modules
+
+```sh
+yarn install
+```
+
+Now you can edit ```App.js``` & enjoy developing.
+
+
+
 # This repo includes configuration of following packages
 
 - React Native v0.68
