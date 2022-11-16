@@ -1,5 +1,5 @@
 # RN-Basekit
-Template for React-Native with navigation, state management, axios &amp; other packages pre-installed.
+Template for React-Native with navigation, NativeBase, MST state management, React Navigation, axios &amp; other packages pre-installed.
 
 # How to install
 
