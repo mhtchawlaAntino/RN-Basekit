@@ -29,7 +29,6 @@ Now you can edit ```App.js``` & enjoy developing.
 - React Native
 - NativeBase (UI library) v3.4.x
 - Basic folder structure
-- React native reanimated v2.11.0
 - React Navigation (stack, tab & drawer) v6.x
 - Responsive file added in ./src/utils
 - MobxStateTree or MST (state management)
@@ -43,6 +42,7 @@ Now you can edit ```App.js``` & enjoy developing.
 - React native internet connection alert v0.1.9
 - React native background timer v2.4.1
 - React native image picker v4.10.0
+- React native reanimated v2.11.0
 
 
 # Help / Info
